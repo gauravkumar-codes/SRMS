@@ -1,0 +1,22 @@
+# local data - never commit the database (it holds user accounts and student records)
+rms.db
+rms.db-journal
+rms.db.bak-*
+*.db
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# packaging output
+build/
+dist/
+*.spec
+
+# editors / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
