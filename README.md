@@ -11,6 +11,33 @@ Built with **Python, Tkinter and SQLite**.
 
 ---
 
+## Screenshots
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/home.png" alt="home" width="100%" /><br />
+      <sub><b>Home Page</b></sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/course.png" alt="course" width="100%" /><br />
+      <sub><b>Courses</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="screenshots/students.png" alt="students" width="100%" /><br />
+      <sub><b>Students</b></sub>
+    </td>
+    <td align="center">
+      <img src="screenshots/users.png" alt="users" width="100%" /><br />
+      <sub><b>Users</b></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 📑 Table of contents
 
 - [Features](#-features)
@@ -118,22 +145,6 @@ pip install -r requirements.txt
 # 4. Start the app
 python main.py
 ```
-
-### Pictures (optional)
-
-The app looks for these files in an `images/` folder next to `main.py`:
-
-| File | Used on |
-|---|---|
-| `b2.jpg` | Login and registration background |
-| `side.jpg` | Left panel of login and registration |
-| `logo_p.jpg` | Dashboard header logo |
-| `bg_img.jpg` | Dashboard banner |
-| `result.jpg` | Result entry screen |
-
-Every image is optional. If one is missing, the app still starts and uses a plain
-colour or an icon instead.
-
 ---
 
 ## 🏁 First run
